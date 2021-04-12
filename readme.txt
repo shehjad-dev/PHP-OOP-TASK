@@ -39,10 +39,10 @@ Step-7: Run the PROJECT.
         and start Apache and MySQL
         
         If you did not change the name of the main code file while downloading then follow this step:
-        Now open up your browser and search for- "http://localhost/PHP-OOP-TASK-master/"
+        Open up your browser and search for- "http://localhost/PHP-OOP-TASK-master/"
         
         But if you changed the name of the main code file while downloading then follow this step:
-        Now open up your browser and search for- "http://localhost/(Your new folder name)/"
+        Open up your browser and search for- "http://localhost/(Your new folder name)/"
 
         The project should run correctly.
 
@@ -58,8 +58,10 @@ Step-8: Details about the project.
 Step-9: Not important.
         Up until now the project should run smoothly.
         But if you delete any row from the database manually then the the ID field get all messed up.
-        So there are two extra txt files in 'SQL COMMANDS/Fix_ID_when_row_deleted' which will help to redeem your ID serial in the DB.
-        If you delete any 1 row or multiple rows from DB then copy the code from FixID-1.txt and paste it in you SQL input section.
+        So there are two extra txt files in 'SQL COMMANDS/Fix_ID_when_row_deleted' which will help to redeem your ID serial 
+        in the DB.
+        If you delete any 1 row or multiple rows from DB then copy the code from FixID-1.txt and paste it in you SQL 
+        input section.
         If you delete all the rows then copy the code from FixID-2.txt and paste it in you SQL input section.
 
         [Thank you]
