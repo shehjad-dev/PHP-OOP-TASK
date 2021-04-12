@@ -21,7 +21,7 @@ Step-4: Change the ROOT_URL.
         
         
 Step-5: Change the constants DB_HOST, DB_USER, DB_PASS, DB_NAME.
-        Go to 'config' and open 'config.php' 
+        Go to 'config' folder and open 'config.php' 
         Now set your your servername, database username, database password and database name.
         Default: servername = 'localhost', 
                  database username = 'root' or 'your db uesrname', 
