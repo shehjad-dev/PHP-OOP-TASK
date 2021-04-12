@@ -1,0 +1,3 @@
+SET @autoid := 0;
+UPDATE tbname SET id=@autoid := (@autoid+1);
+ALTER TABLE tbname AUTO_INCREMENT=1;
