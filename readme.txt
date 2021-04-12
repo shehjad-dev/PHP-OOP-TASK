@@ -17,7 +17,7 @@ Step-4: Change the ROOT_URL.
         Change the 2nd parameter of the constant with this "http://localhost/PHP-OOP-TASK-master/"
         
         But if you changed the name of the main code file while downloading then follow this step:
-        Change the 2nd parameter of the constant-'ROOT_URL' with this "htto://localhost/(Your new folder name)/"
+        Change the 2nd parameter of the constant-'ROOT_URL' with this "http://localhost/(Your new folder name)/"
         
         
 Step-5: Change the constants DB_HOST, DB_USER, DB_PASS, DB_NAME.
@@ -37,7 +37,13 @@ Step-6: And now place the folder inside the htdocs folder.
 Step-7: Run the PROJECT.
         First open 'xampp-control.exe' from your xampp installation directory 
         and start Apache and MySQL
-        Now open up your browser and search for - http://localhost/PHP-OOP-TASK-master/
+        
+        If you did not change the name of the main code file while downloading then follow this step:
+        Now open up your browser and search for- "http://localhost/PHP-OOP-TASK-master/"
+        
+        But if you changed the name of the main code file while downloading then follow this step:
+        Now open up your browser and search for- "http://localhost/(Your new folder name)/"
+
         The project should run correctly.
 
 
@@ -56,4 +62,4 @@ Step-9: Not important.
         If you delete any 1 row or multiple rows from DB then copy the code from FixID-1.txt and paste it in you SQL input section.
         If you delete all the rows then copy the code from FixID-2.txt and paste it in you SQL input section.
 
-        Thanks you.
+        [Thank you]
