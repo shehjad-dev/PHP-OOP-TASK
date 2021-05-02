@@ -24,7 +24,7 @@ Step-5: Change the constants DB_HOST, DB_USER, DB_PASS, DB_NAME.
         Go to 'config' folder and open 'config.php' 
         Now set your your servername, database username, database password and database name.
         Default: servername = 'localhost', 
-                 database username = 'root' or 'your db uesrname', 
+                 database username = 'root' or 'your db username', 
                  database password = '' or '123' or 'your db password', 
                  database name= 'Your db name where you imported the table in step-3'.
         (note: In each constant declaration set second paramter as your credential);
